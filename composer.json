@@ -1,0 +1,17 @@
+{
+    "name": "plugin-name",
+    "description": "",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "HukR",
+            "email": "romanhukr@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PluginName\\": "includes/"
+        }
+    }
+}
